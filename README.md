@@ -18,6 +18,20 @@ Estiqra brings property evidence, pricing, feasibility, and investment reporting
 
 *Public Dubai pilot capture. Visit the product preview for context and sample reports.*
 
+## Estiqra Operate
+
+**One suite for the operational side of property.**
+
+Estiqra Operate brings Leasing, Hospitality, Facilities Management, and developer-sales CRM into four focused workspaces. It follows the day-to-day work of property teams: agreements, rent and collections, hotel stays, maintenance, sales inventory, and buyer balances.
+
+**Current public stage:** a working local prototype, demonstrated with fictional data.
+
+[Explore the Operate showcase and screenshots](https://github.com/mosaradwan-star/estiqra-operate-showcase)
+
+[![Estiqra Operate suite: Leasing, Hospitality, FM, and CRM demonstration workspaces](https://raw.githubusercontent.com/mosaradwan-star/estiqra-operate-showcase/main/screenshots/suite.jpg)](https://github.com/mosaradwan-star/estiqra-operate-showcase)
+
+*Fictional Dubai demonstration. The showcase includes separate screenshots of all four products.*
+
 ## What I focus on
 
 - Real estate products grounded in domain knowledge.
@@ -30,8 +44,8 @@ Estiqra brings property evidence, pricing, feasibility, and investment reporting
 | Project | Public showcase |
 | --- | --- |
 | **Estiqra** | [Real estate intelligence and decision support](https://github.com/mosaradwan-star/estiqra-showcase) |
+| **Estiqra Operate** | [Leasing, hospitality, facilities management, and developer sales](https://github.com/mosaradwan-star/estiqra-operate-showcase) |
 | **Aqar** | Dedicated showcase to follow. |
-| **Estiqra Operate** | Dedicated showcase to follow. |
 
 For product conversations, pilot access, and investor enquiries, [contact Estiqra](https://www.estiqra.com/#contact).
 
