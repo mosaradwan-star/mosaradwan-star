@@ -22,11 +22,11 @@ Estiqra brings property evidence, pricing, feasibility, and investment reporting
 
 **Current public stage:** early access, with a Dubai pilot product preview.
 
-[Explore Estiqra](https://www.estiqra.com/) · [Project showcase](https://github.com/mosaradwan-star/estiqra-showcase) · [Product preview](https://www.estiqra.com/#product-journey) · [Request access / contact](https://www.estiqra.com/#contact)
+[Explore Estiqra](https://www.estiqra.com/) · [Project showcase](https://github.com/mosaradwan-star/estiqra-showcase) · [10 full PDF samples](https://github.com/mosaradwan-star/estiqra-showcase/blob/main/reports/README.md) · [Request access / contact](https://www.estiqra.com/#contact)
 
-[![Estiqra Dubai pilot: pricing workspace with market evidence and a report workflow](https://www.estiqra.com/screenshots/pricing-workspace.webp)](https://www.estiqra.com/#product-journey)
+[![Estiqra Kamal Dubai Full Development: linked stages and a mapped development concept](https://raw.githubusercontent.com/mosaradwan-star/estiqra-showcase/main/screenshots/kamal-dubai-full-development.jpg)](https://github.com/mosaradwan-star/estiqra-showcase#product-in-view)
 
-*Public Dubai pilot capture. Visit the product preview for context and sample reports.*
+*Actual saved Dubai pilot test study in Kamal mode. Explore the showcase for Full Development, Land Pricing, and ten archived PDF samples. Advisory qualifications remain visible.*
 
 ## Estiqra Operate
 
