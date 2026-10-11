@@ -32,6 +32,20 @@ Estiqra Operate brings Leasing, Hospitality, Facilities Management, and develope
 
 *Fictional Dubai demonstration. The showcase includes separate screenshots of all four products.*
 
+## Aqar · AqarFlow
+
+**From property discovery to brokerage follow-through.**
+
+Aqar connects Arabic and English property search with owner submissions, brokerage CRM, offers, and planning and investment analysis. Its initial market context is Jenin and the West Bank.
+
+**Current public stage:** a local product build, demonstrated with fictional or blank records.
+
+[Explore the Aqar showcase and screenshots](https://github.com/mosaradwan-star/aqar-showcase)
+
+[![AqarFlow property discovery and structured search filters](https://raw.githubusercontent.com/mosaradwan-star/aqar-showcase/main/screenshots/property-discovery.jpg)](https://github.com/mosaradwan-star/aqar-showcase)
+
+*Four product screens show discovery, owner intake, brokerage CRM, and investment analysis preparation.*
+
 ## What I focus on
 
 - Real estate products grounded in domain knowledge.
@@ -45,7 +59,7 @@ Estiqra Operate brings Leasing, Hospitality, Facilities Management, and develope
 | --- | --- |
 | **Estiqra** | [Real estate intelligence and decision support](https://github.com/mosaradwan-star/estiqra-showcase) |
 | **Estiqra Operate** | [Leasing, hospitality, facilities management, and developer sales](https://github.com/mosaradwan-star/estiqra-operate-showcase) |
-| **Aqar** | Dedicated showcase to follow. |
+| **Aqar** | [Property discovery and brokerage workflows](https://github.com/mosaradwan-star/aqar-showcase) |
 
 For product conversations, pilot access, and investor enquiries, [contact Estiqra](https://www.estiqra.com/#contact).
 
