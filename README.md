@@ -4,6 +4,16 @@
 
 I build products that help real estate teams turn fragmented information into decisions they can explain. My work combines real estate experience, AI-assisted engineering, geospatial analysis, and financial systems.
 
+## Product portfolio
+
+| Product | Focus | Current stage |
+| --- | --- | --- |
+| [**Estiqra**](https://github.com/mosaradwan-star/estiqra-showcase) | Evidence-led real estate intelligence and decision reports | Early access · Dubai pilot preview |
+| [**Estiqra Operate**](https://github.com/mosaradwan-star/estiqra-operate-showcase) | Leasing, hospitality, facilities management, and developer sales | Working local prototype · fictional demo |
+| [**Aqar / AqarFlow**](https://github.com/mosaradwan-star/aqar-showcase) | Property discovery and brokerage workflows | Local product build · fictional demo |
+
+[Estiqra website](https://www.estiqra.com/) · [Product and investor enquiries](https://www.estiqra.com/#contact)
+
 ## Featured project: Estiqra
 
 **Real estate intelligence, built from evidence.**
@@ -52,14 +62,6 @@ Aqar connects Arabic and English property search with owner submissions, brokera
 - Connected workflows for evidence, analysis, review, and reporting.
 - Geospatial and financial decision support.
 - AI-assisted product development with human review.
-
-## Product portfolio
-
-| Project | Public showcase |
-| --- | --- |
-| **Estiqra** | [Real estate intelligence and decision support](https://github.com/mosaradwan-star/estiqra-showcase) |
-| **Estiqra Operate** | [Leasing, hospitality, facilities management, and developer sales](https://github.com/mosaradwan-star/estiqra-operate-showcase) |
-| **Aqar** | [Property discovery and brokerage workflows](https://github.com/mosaradwan-star/aqar-showcase) |
 
 For product conversations, pilot access, and investor enquiries, [contact Estiqra](https://www.estiqra.com/#contact).
 
